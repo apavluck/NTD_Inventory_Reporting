@@ -36,11 +36,11 @@
 ### **Functional & Non-functional Requirement**
 
 **Functional requirements**
-![Functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image1.png)
+![Functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image3.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 **Non-functional requirements** 
-![Non-functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image2.png)
+![Non-functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image1.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 ### **Data Models and Exchange**
@@ -61,7 +61,7 @@
 | Implementing partner | Global | Implementing partners would have no role in using this system. However, if they were given access to these data they too would have improved visibility on inventory and expiration. |
 
 **List of indicators across multiple tools**
-![Indicators across tools](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image3.png)
+![Indicators across tools](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image2.png)
 
 ![Indicator table](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image4.png)
 [Web annex A](https://docs.google.com/spreadsheets/d/1_NCdu7_UhALA5o2GEe1pdlWO8TMZLDX8/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
