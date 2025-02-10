@@ -36,13 +36,11 @@
 ### **Functional & Non-functional Requirement**
 
 **Functional requirements**
-
-**![][image1]**  
+![Functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image1.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 **Non-functional requirements** 
-
-**![][image2]**  
+![Non-functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image2.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 ### **Data Models and Exchange**
@@ -62,9 +60,10 @@
 | International shipment company | Global | Would have limited impact on this system. However, the shipping information is available for integration with national systems and that data combined with reporting medicine stock would provide a comprehensive review of received, used, requested medicines. |
 | Implementing partner | Global | Implementing partners would have no role in using this system. However, if they were given access to these data they too would have improved visibility on inventory and expiration. |
 
-**List of indicators across multiple tools***![][image3]*
+**List of indicators across multiple tools**
+![Indicators across tools](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image3.png)
 
-**![][image4]**  
+![Indicator table](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image4.png)
 [Web annex A](https://docs.google.com/spreadsheets/d/1_NCdu7_UhALA5o2GEe1pdlWO8TMZLDX8/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 ### **Workflows & Business Processes**
