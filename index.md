@@ -36,11 +36,11 @@
 ### **Functional & Non-functional Requirement**
 
 **Functional requirements**
-![Functional requirements](/images/image3.png)
+![Functional requirements](image3.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 **Non-functional requirements** 
-![Non-functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image1.png)
+![Non-functional requirements](image1.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 ### **Data Models and Exchange**
@@ -61,10 +61,10 @@
 | Implementing partner | Global | Implementing partners would have no role in using this system. However, if they were given access to these data they too would have improved visibility on inventory and expiration. |
 
 **List of indicators across multiple tools**
-![Indicators across tools](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image2.png)
+![Indicators across tools](image2.png)
 
 **Example list of indicators used by Clinton Health Access Initiative**
-![Indicator table](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image4.png)
+![Indicator table](image4.png)
 [Web annex A](https://docs.google.com/spreadsheets/d/1_NCdu7_UhALA5o2GEe1pdlWO8TMZLDX8/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 ### **Workflows & Business Processes**
@@ -86,7 +86,7 @@
 *Weak monitoring and reporting systems can lead to **stockouts or over-distribution** of medicines. Most often, the medicines used for MDA campaigns are not tracked using national logistics management information systems as they move from ports of entry, to central storage, and, ultimately, out to endemic communities. Similarly, reporting of the use of these medicines is a component of paper-based community registers and treatment summary forms. Limiting the access to these data until weeks after the MDA has concluded.*
 
 **General data flow at national and global level**
-![Indicator table](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image5.png)
+![Indicator table](image5.png)
 
 *The tools provided here support the electronic submission of drug distribution during, or immediately following the MDA to a central database where these data can be accessed by all key actors and used for program management, reporting, and planning.*
 
@@ -120,7 +120,7 @@
 *When community level reporting is not feasible, reporting would move to a higher administrative level, which would reduce the number of reporters, but also limit what actions could be taken with these data. Data submitted above the community level would primarily support the reporting of treatments delivered and remaining stock on annual reporting forms. These data could be made available to WHO and pharmaceutical partners, improving their ability to manufacture and ship medicines on time.*
 
 **Dashboard example produced to report on drug used and remaining stock**
-![Indicator table](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image6.png)
+![Indicator table](image6.png)
 
 ## **8\. Decision Support Artifacts**
 
