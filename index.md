@@ -1,6 +1,5 @@
-**Donated Drug Reporting Templates to Support Neglected Tropical Disease (NTD) Program Implementation WHO SMART Guidelines approach**
-
 # **Program Overview**
+Donated Drug Reporting Templates to Support Neglected Tropical Disease (NTD) Program Implementation WHO SMART Guidelines approach
 
 ## **1\. Program Name**
 
