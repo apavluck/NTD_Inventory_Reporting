@@ -36,7 +36,7 @@
 ### **Functional & Non-functional Requirement**
 
 **Functional requirements**
-![Functional requirements](https://github.com/apavluck/NTD_Inventory_Reporting/blob/main/images/image3.png)
+![Functional requirements](/images/image3.png)
 [Web annex B](https://docs.google.com/spreadsheets/d/1yPYo4qOwWxHHD6ckmXrLE4VMVU0kWGPy/edit?usp=drive_link&ouid=104620825587987098442&rtpof=true&sd=true)
 
 **Non-functional requirements** 
